@@ -64,6 +64,8 @@ class ParameterResolver extends AbstractParameterResolver
         'PBX_TYPECARTE',
         'PBX_TYPEPAIEMENT',
         'PBX_ATTENTE',
+        'PBX_BILLING',
+        'PBX_SHOPPINGCART',
     );
 
     /**
@@ -81,6 +83,8 @@ class ParameterResolver extends AbstractParameterResolver
         'PBX_HASH',
         'PBX_TIME',
         'PBX_HMAC',
+        'PBX_BILLING',
+        'PBX_SHOPPINGCART',
     );
 
     /**
